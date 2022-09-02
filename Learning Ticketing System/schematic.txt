@@ -1,0 +1,11 @@
+Basic learning ticketing system that runs several workflows:
+
+1. Opens new tickets with learning ideas or objectives in them.
+2. Updates the status of open tickets when prompted.
+3. Edits open tickets as they may change or develop.
+4. Closes tickets when completed or deleted, and moves to archive.
+5. Reopens archived tickets.
+
+The backend will be an Excel spreadsheet than can be read and written to. Should this be moved to an array at some stage?
+
+The frontend will for now be a simply Python script that provides the various work flow options. This could be extended into a neater user interface over time.
