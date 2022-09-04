@@ -3,6 +3,7 @@
 from deck import Deck
 import time
 
+TestDeck = Deck("TestDeck")
 print("Hello. Welcome to the deck.py functionality sample program.")
 choice = 1
 
